@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package>
+    <name>Customercall_Callbutton</name>
+    <version>1.1.0</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">AFL</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Instant Call-Back Button for your online business / Sofortiger R&#xFC;ckruf auf Mausklick per Callback-Button</summary>
+    <description>English: CustomerCall click-to-call callback solution is a tool that stands for availability, service and customer satisfaction for your online business. Your customer is just one click away. Sign-up for free and get a two week test account totally free of charge. All calls are connected over the regular phone.
+
+German: CustomerCall ist ein CallBack/R&#xFC;ckruf Button f&#xFC;r Ihre Webseite. Dabei gibt der Kunde seine eigene Rufnummer ein und wird innerhalb von 10 Sekunden zur&#xFC;ck gerufen und sofort mit Ihrem Unternehmen verbunden - denn Sie wissen ja: Erreichbarkeit + Service = Kundenzufriedenheit und somit mehr Erl&#xF6;s.
+Alle Anrufe finden &#xFC;ber das regul&#xE4;re Telefonnetz statt.</description>
+    <notes>-</notes>
+    <authors><author><name>F. Welter</name><user>auto-converted</user><email>f.welter@customercall.net</email></author></authors>
+    <date>2010-05-22</date>
+    <time>11:04:34</time>
+    <contents><target name="magecommunity"><dir name="Customercall"><dir name="Callbutton"><dir name="Block"><file name="Callbutton.php" hash="5494628fc890ebbb3f0219479532b683"/></dir><dir name="etc"><file name="config.xml" hash="8ce8475aeb5bd843bd5cc5a5bf50818b"/><file name="system.xml" hash="efa79c54828fef5301dbbe50375f230d"/></dir><dir name="Helper"><file name="Data.php" hash="1f635a2e946ae70d119bb6c111ef1788"/></dir></dir></dir></target><target name="magedesign"><dir name="frontend"><dir name="default"><dir name="default"><dir name="layout"><file name="callbutton.xml" hash="0156dff0fa7a541857d2e8be52fa7c92"/></dir><dir name="template"><dir name="callbutton"><file name="callbutton.phtml" hash="1f5dcd6ae95ad9aecc026a47407fbc93"/></dir></dir></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Customercall_Callbutton.xml" hash="7fbf2012d99bc4c77a08766ec7057bb8"/></dir></target></contents>
+    <compatible/>
+    <dependencies/>
+</package>

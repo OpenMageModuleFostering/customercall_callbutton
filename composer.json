@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Customercall_Callbutton",
+    "type": "magento-module",
+    "license": "AFL",
+    "homepage": "",
+    "description": "Instant Call-Back Button for your online business / Sofortiger Rückruf auf Mausklick per Callback-Button",
+    "authors": [
+    {
+        "name": "F. Welter",
+        "email": "f.welter@customercall.net"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}

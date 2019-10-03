@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Customercall_Callbutton",
+    "name": "openmage-module-fostering\/customercall_callbutton",
     "type": "magento-module",
-    "license": "AFL",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Instant Call-Back Button for your online business \/ Sofortiger R\u00fcckruf auf Mausklick per Callback-Button",
     "authors": [
